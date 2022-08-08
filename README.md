@@ -1,9 +1,9 @@
 # barbearia-alura
 
-#index.html
+## index.html
 Este arquivo contém os códigos html.
 
-#Style.css
+## Style.css
 Esse arquivo contém os códigos css.
 
 Nesse projeto são utilizadas duas imagens.
